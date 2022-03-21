@@ -1,0 +1,3 @@
+Datasets used for demos.
+
+1. Simplified version of Georgia real estate data from https://www.kaggle.com/datasets/yellowj4acket/real-estate-georgia. Added shapely coordinates.
